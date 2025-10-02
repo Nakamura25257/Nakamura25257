@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nakamura25257&theme=default)
+
+![React](https://img.shields.io/badge/React-2023-blue)
