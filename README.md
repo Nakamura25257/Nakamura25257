@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nakamura25257&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nakamura25257&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nakamura25257&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nakamura25257&theme=default)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
