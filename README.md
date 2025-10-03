@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nakamura25257)
-
 
