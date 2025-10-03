@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nakamura25257&theme=default)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nakamura25257&theme=default)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
